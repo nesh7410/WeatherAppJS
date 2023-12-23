@@ -12,8 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #000; */
-    background-image: url("/WeatherAppJS/images/5638.jpg");
+    background-color: #000;
 }
 
 .container{
